@@ -3,4 +3,6 @@ from . import vision_api
 
 if __name__ == '__main__':
     # Do something
-    a=10
+    init_vision()
+    label_captions(img.jpg)
+
