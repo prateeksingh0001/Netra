@@ -1,1 +1,4 @@
-netra_daemon
+NETRA
+
+A sound augmented guidance system for helping the visually impaired.
+
